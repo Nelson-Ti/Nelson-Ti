@@ -73,17 +73,7 @@
 
 ---
 
-# 🤖 Inteligência Artificial no Desenvolvimento
-
-Utilizo ferramentas de IA para melhorar produtividade e acelerar o desenvolvimento:
-
-- ChatGPT
-- GitHub Copilot
-- IA para geração de código
-- IA para análise e solução de problemas
-
----
-
+ 
 # 📞 Contato
 
 <div> 
