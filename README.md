@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Nelson Marques</h1>
 
 <p align="center">
-💻 Desenvolvedor Front-End <br>
+💻 Desenvolvedor Full stack <br>
 📚 Análise e Desenvolvimento de Sistemas <br>
 🚀 Apaixonado por tecnologia, desenvolvimento web e criação de soluções digitais
 </p>
