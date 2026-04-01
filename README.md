@@ -1,14 +1,23 @@
 <h1 align="center">👋 Olá, eu sou Nelson Marques</h1>
 
 <p align="center">
-💻 Desenvolvedor Full stack <br>
+💻 Desenvolvedor Full Stack <br>
 📚 Análise e Desenvolvimento de Sistemas <br>
 🚀 Apaixonado por tecnologia, desenvolvimento web e criação de soluções digitais
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Nelson-Ti&label=Visualizações%20do%20Perfil&color=0e75b6&style=flat" alt="Nelson-Ti" />
+<img src="https://komarev.com/ghpvc/?username=nelson-ti&label=Visualizações%20do%20Perfil&color=0e75b6&style=flat" />
 </p>
+
+---
+
+# 🚀 Sobre mim
+
+- 💻 Desenvolvedor focado em **Vue.js, Vuetify e TypeScript**
+- ⚙️ Experiência com **C# e desenvolvimento de APIs**
+- 📊 Desenvolvimento de **sistemas e dashboards financeiros**
+- 🤖 Utilizo **Inteligência Artificial para auxiliar no desenvolvimento**
 
 ---
 
@@ -21,11 +30,16 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelson-ti&layout=compact&langs_count=7&theme=dark"/>
 
 </div>
+
 ---
+
+# 📈 Atividade no GitHub
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nelson-ti&theme=github-dark"/>
 
-# 🚀 Tecnologias que utilizo
+---
+
+# 🛠️ Tecnologias
 
 ### 🎨 Front-End
 
@@ -59,6 +73,17 @@
 
 ---
 
+# 🤖 Inteligência Artificial no Desenvolvimento
+
+Utilizo ferramentas de IA para melhorar produtividade e acelerar o desenvolvimento:
+
+- ChatGPT
+- GitHub Copilot
+- IA para geração de código
+- IA para análise e solução de problemas
+
+---
+
 # 📞 Contato
 
 <div> 
@@ -72,9 +97,6 @@
 <a href="https://wa.me/5521966210600" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
-<a href="https://www.instagram.com/1nelsonmarques/" target="_blank">
-<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-
 <a href="mailto:nelson.taveira.ti@gmail.com">
 <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
@@ -82,4 +104,4 @@
 
 ---
 
-⭐ Sempre aprendendo, evoluindo e criando novas soluções.
+⭐ Sempre aprendendo, evoluindo e construindo novas soluções.
