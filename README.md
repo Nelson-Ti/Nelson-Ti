@@ -23,6 +23,8 @@
 </div>
 ---
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nelson-ti&theme=github-dark"/>
+
 # 🚀 Tecnologias que utilizo
 
 ### 🎨 Front-End
