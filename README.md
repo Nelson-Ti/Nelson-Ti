@@ -14,11 +14,7 @@
 
 # 📊 Estatísticas do GitHub
 
-<div align="center">
-  <a href="https://github.com/Nelson-Ti">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nelson-Ti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelson-Ti&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<div> <a href="https://github.com/nelson-ti"> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Nelson-ti&show_icons=true&theme=dark"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelson-ti&layout=compact&langs_count=7&theme=dark"/> </div>
 
 ---
 
