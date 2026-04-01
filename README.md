@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=nelson-ti&label=Visualizações%20do%20Perfil&color=0e75b6&style=flat" alt="nelson-ti" />
+<img src="https://komarev.com/ghpvc/?username=Nelson-Ti&label=Visualizações%20do%20Perfil&color=0e75b6&style=flat" alt="Nelson-Ti" />
 </p>
 
 ---
@@ -15,9 +15,9 @@
 # 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/nelson-ti">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nelson-ti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelson-ti&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/Nelson-Ti">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nelson-Ti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelson-Ti&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ---
